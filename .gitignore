@@ -40,3 +40,4 @@ local.properties
 ##Gradle-based build
 .gradle
 build/
+.settings
